@@ -1,0 +1,4 @@
+Hostname: localhost
+Porta: 2001
+Indirizzo_Multicast: 230.0.0.9
+Porta_Multicast: 2009
