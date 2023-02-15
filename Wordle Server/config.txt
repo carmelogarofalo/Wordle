@@ -1,0 +1,5 @@
+Port: 2001
+NThread: 25
+Tempo_parola: 200000
+Indirizzo_Multicast: 230.0.0.9
+Porta_Multicast: 2009
